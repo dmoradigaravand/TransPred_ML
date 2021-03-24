@@ -1,12 +1,12 @@
 # Machine learning prediction of resistance to sub-inhibitory antimicrobial concentrations from Escherichia coli genomes
 
-Sam Benkwitz-Bedford
-Martin Palm
-Talip Yasir Demirtas
-Ville Mustonen
-Anne Farewell
-Jonas Warringer
-Danesh Moradigaravand1†*
+Sam Benkwitz-Bedford,
+Martin Palm,
+Talip Yasir Demirtas,
+Ville Mustonen,
+Anne Farewell,
+Jonas Warringer,
+Danesh Moradigaravand1†*,
 Leopold Parts5-6†*
 
 †  Corresponding authors 
