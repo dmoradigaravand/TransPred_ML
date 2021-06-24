@@ -6,11 +6,11 @@ Talip Yasir Demirtas,
 Ville Mustonen,
 Anne Farewell,
 Jonas Warringer,
-Danesh Moradigaravand1†*,
-Leopold Parts†*
+Leopold Parts†
+Danesh Moradigaravand1†,
+
 
 †  Corresponding authors 
-* Shared last authorship  
 Danesh Moradigaravand: d.moradigaravand@bhm.ac.uk
 Leopold Parts: leopold.parts@sanger.ac.uk 
 
