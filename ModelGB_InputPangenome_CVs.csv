@@ -1,4 +1,4 @@
-max_depth,n_estimators,subsample,CrossValidationSet,Measurement,Drug,Concentration_Original,Concentration,Validation Spearman,Training MAE,Test MAE
+max_depth,n_estimators,subsample,CrossValidationSet,Measurement,Drug,Concentration_Original,Concentration,Validation Spearman,Training MAE,Validation MAE
 1,30,0.8,1,DoublingTime,NoAntimicrbial,NA,2,0.388609199,0.255480022,0.27082262
 1,30,0.8,1,GrowthYield,NoAntimicrbial,NA,2,0.384163462,0.57997378,0.557224674
 1,30,0.8,1,DoublingTime,CAM,0.5,1,0.067000989,0.131586939,0.136790726
