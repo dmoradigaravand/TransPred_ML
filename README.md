@@ -6,8 +6,8 @@ Talip Yasir Demirtas,
 Ville Mustonen,
 Anne Farewell,
 Jonas Warringer,
-Leopold Parts†
-Danesh Moradigaravand1†,
+Leopold Parts†,
+Danesh Moradigaravand1†
 
 
 †  Corresponding authors 
