@@ -20,26 +20,26 @@ Escherichia coli is an important cause of bacterial infections worldwide, with m
 
 
 
-#Decription of the files:
+# Decription of the files:
 
-##Code11Dec.ipynb
-The jupyter notebook including the codes used to run the scripts in a standalone format. Note the prediction taks were executed on the cluster.
+## Code11Dec.ipynb
+- The jupyter notebook including the codes used to run the scripts in a standalone format. Note the prediction taks were executed on the cluster.
 
 
-##ModelGB_InputPangenome_CVs.csv
-Results from predictions on cross validations from the gradient boosted regressor model and the pangenome input.
+## ModelGB_InputPangenome_CVs.csv
+- Results from predictions on cross validations from the gradient boosted regressor model and the pangenome input.
 
-##ModelGB_InputResistome_CVs.csv
-Results from predictions on cross validations from the gradient boosted regressor model and the resistome input.
+## ModelGB_InputResistome_CVs.csv
+- Results from predictions on cross validations from the gradient boosted regressor model and the resistome input.
 
-##ModelGB_InputSNP_CVs.csv
-Results from predictions on cross validations from the gradient boosted regressor model and the SNP input.
+## ModelGB_InputSNP_CVs.csv
+- Results from predictions on cross validations from the gradient boosted regressor model and the SNP input.
 
-##PanGenomeInput.csv.zip
-The pangenome predictor file fed into the predictor models.
+## PanGenomeInput.csv.zip
+- The pangenome predictor file fed into the predictor models.
 
-##ResistomeInput.csv
-The resistome predictor file fed into the predictor models.
+## ResistomeInput.csv
+- The resistome predictor file fed into the predictor models.
 
-##SupplementalTableS1.csv
-The outcome features for the predictor models.
+## SupplementalTableS1.csv
+- The outcome features for the predictor models.
