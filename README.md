@@ -25,7 +25,6 @@ Escherichia coli is an important cause of bacterial infections worldwide, with m
 ## Code11Dec.ipynb
 - The jupyter notebook including the codes used to run the scripts in a standalone format. Note the prediction taks were executed on the cluster.
 
-
 ## ModelGB_InputPangenome_CVs.csv
 - Results from predictions on cross validations from the gradient boosted regressor model and the pangenome input.
 
@@ -34,6 +33,9 @@ Escherichia coli is an important cause of bacterial infections worldwide, with m
 
 ## ModelGB_InputSNP_CVs.csv
 - Results from predictions on cross validations from the gradient boosted regressor model and the SNP input.
+
+## ModelLasso_InputPangenome_CVs.csv
+- Results from predictions on cross validations from the lasso model and the pangenome input.
 
 ## PanGenomeInput.csv.zip
 - The pangenome predictor file fed into the predictor models.
