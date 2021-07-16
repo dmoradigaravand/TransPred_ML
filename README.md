@@ -45,3 +45,7 @@ Escherichia coli is an important cause of bacterial infections worldwide, with m
 
 ## SupplementalTableS1.csv
 - The outcome features for the predictor models.
+
+## SNP_FeatureImportance_Result.csv
+- SNPs that were consistently picked by the model and were found significantly linked with the growth measure
+
