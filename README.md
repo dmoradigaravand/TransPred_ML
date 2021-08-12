@@ -49,3 +49,6 @@ Escherichia coli is an important cause of bacterial infections worldwide, with m
 ## SNP_FeatureImportance_Result.csv
 - SNPs that were consistently picked by the model and were found significantly linked with the growth measure
 
+## AccessoryGenesHits.zip
+- Significant accessory gene hits identified by machine learning model and confirmed by association analysis (p-value<0.01)
+
